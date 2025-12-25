@@ -31,7 +31,7 @@ A sleek, minimalistic web tool for encoding and decoding text using Morse code. 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MrSamSeen/yoKgUeWsEhNwIari.git
+   git clone https://github.com/SamSeenX/yoKgUeWsEhNwIari.git
    cd yoKgUeWsEhNwIari
    ```
 
